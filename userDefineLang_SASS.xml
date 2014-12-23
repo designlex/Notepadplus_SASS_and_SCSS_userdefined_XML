@@ -1,0 +1,61 @@
+<NotepadPlus>
+    <UserLang name="SASS" ext="sass" udlVersion="2.0">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" forceLineCommentsAtBOL="no" foldCompact="no" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="yes" Keywords4="yes" Keywords5="yes" Keywords6="yes" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments" id="0">00// 01 02 03/* 04*/</Keywords>
+            <Keywords name="Numbers, additional" id="1"></Keywords>
+            <Keywords name="Numbers, prefixes" id="2"></Keywords>
+            <Keywords name="Numbers, extras with prefixes" id="3"></Keywords>
+            <Keywords name="Numbers, suffixes" id="4">px</Keywords>
+            <Keywords name="Operators1" id="5">&apos; % ( ) , :</Keywords>
+            <Keywords name="Operators2" id="6"></Keywords>
+            <Keywords name="Folders in code1, open" id="7"></Keywords>
+            <Keywords name="Folders in code1, middle" id="8"></Keywords>
+            <Keywords name="Folders in code1, close" id="9"></Keywords>
+            <Keywords name="Folders in code2, open" id="10"></Keywords>
+            <Keywords name="Folders in code2, middle" id="11"></Keywords>
+            <Keywords name="Folders in code2, close" id="12"></Keywords>
+            <Keywords name="Folders in comment, open" id="13"></Keywords>
+            <Keywords name="Folders in comment, middle" id="14"></Keywords>
+            <Keywords name="Folders in comment, close" id="15"></Keywords>
+            <Keywords name="Keywords1" id="16">azimuth background background-attachment background-color background-image background-position background-repeat background-size border border-bottom border-bottom-color border-bottom-style border-bottom-width border-collapse border-color border-left border-left-color border-left-style border-left-width border-right border-right-color border-right-style border-right-width border-spacing border-style border-top border-top-color border-top-style border-top-width border-width bottom caption-side clear clip color content counter-increment counter-reset cue cue-after cue-before cursor direction display elevation empty-cells float font font-family font-size font-size-adjust font-stretch font-style font-variant font-weight height left: letter-spacing line-height list-style list-style-image list-style-position list-style-type margin margin-bottom margin-left margin-right margin-top marker-offset marks max-height max-width min-height min-width opacity orphans outline outline-color outline-style outline-width overflow padding padding-bottom padding-left padding-right padding-top page page-break-after page-break-before page-break-inside pause pause-after pause-before pitch pitch-range play-during position quotes richness right: size speak speak-header speak-numeral speak-punctuation speech-rate stress table-layout text-align text-decoration text-indent text-shadow text-transform top unicode-bidi vertical-align visibility voice-family volume white-space widows width word-spacing z-index right left</Keywords>
+            <Keywords name="Keywords2" id="17">active after before checked disabled empty enabled first first-child first-letter first-line first-of-type focus hover lang last-child last-of-type link not only-child only-of-type nth-child root target visited</Keywords>
+            <Keywords name="Keywords3" id="18">#</Keywords>
+            <Keywords name="Keywords4" id="19">.</Keywords>
+            <Keywords name="Keywords5" id="20">@</Keywords>
+            <Keywords name="Keywords6" id="21">$</Keywords>
+            <Keywords name="Keywords7" id="22">*&#x000D;&#x000A;a&#x000D;&#x000A;abbr&#x000D;&#x000A;acronym&#x000D;&#x000A;address&#x000D;&#x000A;applet&#x000D;&#x000A;area&#x000D;&#x000A;b&#x000D;&#x000A;base&#x000D;&#x000A;basefont&#x000D;&#x000A;bdo&#x000D;&#x000A;big&#x000D;&#x000A;blockquote&#x000D;&#x000A;body&#x000D;&#x000A;br&#x000D;&#x000A;button&#x000D;&#x000A;caption&#x000D;&#x000A;cite&#x000D;&#x000A;code&#x000D;&#x000A;col&#x000D;&#x000A;colgroup&#x000D;&#x000A;dd&#x000D;&#x000A;del&#x000D;&#x000A;dfn&#x000D;&#x000A;dir&#x000D;&#x000A;div&#x000D;&#x000A;dl&#x000D;&#x000A;dt&#x000D;&#x000A;em&#x000D;&#x000A;fieldset&#x000D;&#x000A;form&#x000D;&#x000A;frame&#x000D;&#x000A;frameset&#x000D;&#x000A;h1&#x000D;&#x000A;h2&#x000D;&#x000A;h3&#x000D;&#x000A;h4&#x000D;&#x000A;h5&#x000D;&#x000A;h6&#x000D;&#x000A;head&#x000D;&#x000A;hr&#x000D;&#x000A;html&#x000D;&#x000A;i&#x000D;&#x000A;iframe&#x000D;&#x000A;img&#x000D;&#x000A;input&#x000D;&#x000A;ins&#x000D;&#x000A;isindex&#x000D;&#x000A;kbd&#x000D;&#x000A;label&#x000D;&#x000A;legend&#x000D;&#x000A;li&#x000D;&#x000A;map&#x000D;&#x000A;menu&#x000D;&#x000A;meta&#x000D;&#x000A;noframes&#x000D;&#x000A;noscript&#x000D;&#x000A;object&#x000D;&#x000A;ol&#x000D;&#x000A;optgroup&#x000D;&#x000A;option&#x000D;&#x000A;p&#x000D;&#x000A;param&#x000D;&#x000A;pre&#x000D;&#x000A;q&#x000D;&#x000A;s&#x000D;&#x000A;samp&#x000D;&#x000A;script&#x000D;&#x000A;select&#x000D;&#x000A;small&#x000D;&#x000A;span&#x000D;&#x000A;strike&#x000D;&#x000A;strong&#x000D;&#x000A;style&#x000D;&#x000A;sub&#x000D;&#x000A;sup&#x000D;&#x000A;table&#x000D;&#x000A;tbody&#x000D;&#x000A;td&#x000D;&#x000A;textarea&#x000D;&#x000A;tfoot&#x000D;&#x000A;th&#x000D;&#x000A;thead&#x000D;&#x000A;title&#x000D;&#x000A;tr&#x000D;&#x000A;tt&#x000D;&#x000A;u&#x000D;&#x000A;ul&#x000D;&#x000A;var&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords8" id="23"></Keywords>
+            <Keywords name="Delimiters" id="24">00&apos; 01 02&apos; 03&quot; 04 05&quot; 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="C0C0C0" bgColor="1D1F21" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" styleID="1" fgColor="808080" bgColor="373737" fontName="" fontStyle="0" nesting="768" />
+            <WordsStyle name="LINE COMMENTS" styleID="2" fgColor="808080" bgColor="373737" fontName="" fontStyle="0" nesting="768" />
+            <WordsStyle name="NUMBERS" styleID="3" fgColor="FFFFFF" bgColor="1D1F21" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" styleID="4" fgColor="00FF80" bgColor="1D1F21" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" styleID="5" fgColor="FA5A83" bgColor="1D1F21" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS3" styleID="6" fgColor="42A0FF" bgColor="1D1F21" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" styleID="7" fgColor="00DBDB" bgColor="1D1F21" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" styleID="8" fgColor="FF9C6C" bgColor="1D1F21" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" styleID="9" fgColor="FFAB57" bgColor="1D1F21" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" styleID="10" fgColor="0080FF" bgColor="1D1F21" fontName="" fontStyle="2" nesting="0" />
+            <WordsStyle name="KEYWORDS8" styleID="11" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" styleID="12" fgColor="497E96" bgColor="1D1F21" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" styleID="13" fgColor="FF0000" bgColor="1D1F21" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" styleID="14" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" styleID="15" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" styleID="16" fgColor="FFFF00" bgColor="1D1F21" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="DELIMITERS2" styleID="17" fgColor="FFFF00" bgColor="1D1F21" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="DELIMITERS3" styleID="18" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" styleID="19" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" styleID="20" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" styleID="21" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" styleID="22" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" styleID="23" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
